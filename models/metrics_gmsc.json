@@ -1,0 +1,24 @@
+{
+  "accuracy": 0.8031,
+  "precision": 0.21992535170829744,
+  "recall": 0.7640897755610973,
+  "f1_score": 0.34154497826329283,
+  "roc_auc": 0.862490353861729,
+  "cv_scores_mean": 0.8566432228153948,
+  "cv_scores_std": 0.0032175498502122943,
+  "confusion_matrix": [
+    [
+      22561,
+      5434
+    ],
+    [
+      473,
+      1532
+    ]
+  ],
+  "dataset": "Give Me Some Credit",
+  "model_type": "Logistic Regression",
+  "n_features": 19,
+  "n_train_samples": 223958,
+  "n_test_samples": 30000
+}
