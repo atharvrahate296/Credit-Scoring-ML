@@ -56,8 +56,8 @@ The project follows a data-driven approach, focusing initially on thorough Explo
 
 1.  Clone the repository:
     ```bash
-    git clone <repository-url>
-    cd Hack_o_hire
+    git clone https://github.com/atharvrahate296/Credit-Scoring-ML
+    cd Credit-Scoring-ML
     ```
 2.  Set up a Python virtual environment (recommended):
     ```bash
@@ -76,7 +76,8 @@ The project follows a data-driven approach, focusing initially on thorough Explo
     ```bash
     python download.py
     ```
-5.  Explore the analysis and findings by running the `Main.ipynb` notebook.
+5. Move the downloaded datasets to the project directory in `/datasets/raw/`
+6.  Explore the analysis and findings by running the `Main.ipynb` notebook.
 
 ## Future Work
 
